@@ -20,7 +20,7 @@
 <p align="center">
   <a href="#how-to-use">How To Use</a> •
   <a href="#credits">Credits</a> •
-  <a href="#author">Credits</a> •
+  <a href="#author">Author</a> •
   <a href="#license">License</a>
 </p>
 
@@ -55,10 +55,9 @@ This software uses the following open source packages:
 ## Author
 
 <a href="https://github.com/NaySoares"> 
- <img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/17206108?s=400&u=9558583e66bbaeb10a96a0af49f6f7e3f455a089&v=4" width="100px;" alt=""/>
+ <img style="border-radius: 50px;" src="https://avatars.githubusercontent.com/u/17206108?s=400&u=9558583e66bbaeb10a96a0af49f6f7e3f455a089&v=4" width="100px;" alt="" />
  <br />
  <sub><b>Elienai Soares</b></sub></a> <a href="https://github.com/NaySoares" title="Dev">❤️</a>
-
 
 👋🏽 Entre em contato!
 
