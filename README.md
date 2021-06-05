@@ -39,10 +39,10 @@ $ git clone https://github.com/NaySoares/dtmoney.git
 $ cd dtmoney
 
 # Install dependencies
-$ npm install
+$ yarn
 
 # Run the app
-$ npm start
+$ yarn start
 ```
 
 ## Credits
